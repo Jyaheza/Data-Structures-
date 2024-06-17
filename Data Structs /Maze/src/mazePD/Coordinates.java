@@ -4,7 +4,7 @@
 * return an instance of Coordinates.
 * 
 * @package mazePD
-* @author(David North) 
+* @author(Maurice Irakoze) 
 */
 
 package mazePD;
