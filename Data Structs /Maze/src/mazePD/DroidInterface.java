@@ -3,7 +3,7 @@
 * of a droid that enters the maze. 
 * 
 * @package mazePD
-* @author(David North) 
+* @author(Maurice Jyaheza)
 */
 
 package mazePD;
